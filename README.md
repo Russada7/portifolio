@@ -1,3 +1,5 @@
+<img src="banana.jpeg" alt="Meu Setup utilizado para criar esse portifolio" />
+
 Portfólio - Kaio Campelo
 
 Prazer, sou o Kaio. Estudo Ciência da Computação e tenho grande interesse na área de hardware, especialmente na montagem e configuração de computadores. Gosto de entender como cada componente funciona e como a lógica se aplica à construção de sistemas eficientes. Também estou aprendendo sobre Sistemas Operacionais, e gosto muito de aprender sobre o Linux! Meu objetivo é trabalhar com o que sou apaixonado, e acompanhar como a tecnologia e o uso da inteligência artificial impactam o desenvolvimento pessoal e coletivo das pessoas.
