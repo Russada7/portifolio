@@ -1,0 +1,1 @@
+print('Olá, mundo! Este é um exemplo de projeto em Python.')
