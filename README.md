@@ -1,30 +1,54 @@
-# Portfólio de Projetos - Kaio Henrique
+Portfólio - Kaio Campelo
 
-Bem-vindo ao meu portfólio! Este repositório reúne meus principais projetos acadêmicos e pessoais, organizados e documentados com boas práticas de versionamento e colaboração.
+Prazer, sou o Kaio. Estudo Ciência da Computação e tenho grande interesse na área de hardware, especialmente na montagem e configuração de computadores. Gosto de entender como cada componente funciona e como a lógica se aplica à construção de sistemas eficientes. Também estou aprendendo sobre Sistemas Operacionais, e gosto muito de aprender sobre o Linux! Meu objetivo é trabalhar com o que sou apaixonado, e acompanhar como a tecnologia e o uso da inteligência artificial impactam o desenvolvimento pessoal e coletivo das pessoas.
+Informações Pessoais
 
-## 📁 Estrutura do Repositório
+Nome: Kaio Henrique Pereira Campelo
 
-```
-portfolio/
-│
-├── README.md
-├── projetos-academicos/
-│   ├── exemplo-projeto-sql/
-│   │   ├── README.md
-│   │   └── script.sql
-│
-├── projetos-pessoais/
-│   ├── exemplo-python/
-│   │   ├── README.md
-│   │   └── app.py
-│
-└── docs/
-    └── anotações.md
-```
+Data de nascimento: 12/02/2007
 
-## 📌 Sobre Mim
+Cidade: Brasília - DF
 
-Sou estudante de tecnologia com interesse em desenvolvimento de software, bancos de dados e soluções web. Este repositório é uma vitrine do que venho aprendendo e construindo.
+E-mail: kcampelo94@gmail.com
+
+Telefone: (61) 99995-7649
+
+LinkedIn: Perfil
+
+GitHub: Russada7
+Formação Acadêmica
+
+Curso: Ciência da Computação
+
+Instituição: UniCeub - Asa Norte
+
+Início: 1º semestre de 2025
+
+Previsão de término: 2º semestre de 2028
+
+Destaque: Lógica de Programação
+
+Curso Técnico: Técnico em Informática (concluído)
+
+Curso de Inglês: Wizard
+
+Conclusão: final de 2026
+
+Nível: Fluente
+Habilidades Técnicas
+
+    Linguagens: Python, C
+    Ferramentas: PyCharm, Code::Blocks, VS Code
+    Conceitos: Lógica de Programação
+    Idiomas: Português e Inglês (fluente)
+
+Experiências
+
+    Experiência técnica em lógica de programação, matemática e montagem e assistência de computadores
+    Curso Técnico em Informática (concluído)
+    Experiência prática como técnico amador em manutenção e conserto de computadores (sem vínculo com empresa)
+
+
 
 ## 🔗 Conecte-se comigo
 
