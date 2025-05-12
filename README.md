@@ -1,4 +1,3 @@
-<img src="banana.jpeg" alt="Meu Setup utilizado para criar esse portifolio" />
 
 Portfólio - Kaio Campelo
 
