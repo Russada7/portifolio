@@ -79,3 +79,10 @@ Sou estudante de tecnologia com interesse em desenvolvimento de software, bancos
 - [LinkedIn](https://www.linkedin.com/)
 - [GitHub](https://github.com/kaiohenrique)
 
+# Portifólio Clima
+
+Projeto desenvolvido com HTML, CSS e JavaScript consumindo a API OpenWeather para consulta de clima em tempo real.
+
+## Deploy
+
+https://portifolio-2u1j44v98-russada7s-projects.vercel.app
